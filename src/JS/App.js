@@ -8,6 +8,7 @@ import Experiences from './Experiences';
 import Competences from './Competences';
 import Langues from './Langues';
 import Hobbies from './Hobbies';
+import Contact from './Contact';
 
 class App extends Component {
     render() {
@@ -25,6 +26,7 @@ class App extends Component {
                 <Competences data={CV.competences} />
                 <Langues data={CV.langues} />
                 <Hobbies data={CV.hobbies} />
+                <Contact />
             </div>
         );
     }

@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 
 class FormationsItem extends Component {
     render() {
-        console.log(this.props.formation);
         return (
             <div>
                 <p>
