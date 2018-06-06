@@ -1,3 +1,8 @@
+h1 {
+  color: red; }
+
 body {
-    color: black;
-}
+  color: white;
+  background-color: #3c4453; }
+  body h1 {
+    color: red; }
