@@ -10,8 +10,8 @@
             "id": 3,
             "employeur": "Apside",
             "poste": "Intégrateur",
-            "durée": "4 mois",
-            "année": "2018",
+            "duree": "4 mois",
+            "annee": "2018",
             "typeApp": "Site web",
             "description": "Intégration du site premium de la Voix Du Nord.",
             "technos": [
@@ -26,8 +26,8 @@
             "id": 2,
             "employeur": "Apside",
             "poste": "Intégrateur",
-            "durée": "1 mois",
-            "année": "2017",
+            "duree": "1 mois",
+            "annee": "2017",
             "typeApp": "Site web",
             "description": "Création d’une plateforme de téléchargement d’une application interne.",
             "technos": [
@@ -41,8 +41,8 @@
             "id": 1,
             "employeur": "Apside",
             "poste": "Développeur",
-            "durée": "3 mois",
-            "année": "2017",
+            "duree": "3 mois",
+            "annee": "2017",
             "typeApp": "Site web",
             "description": "Intégration d’une application web à destination des ressources humaines pour la gestion des candidats.",
             "technos": [
@@ -57,8 +57,8 @@
             "id": 0,
             "employeur": "Apside",
             "poste": "Développeur",
-            "durée": "3 mois",
-            "année": "2017",
+            "duree": "3 mois",
+            "annee": "2017",
             "typeApp": "Application mobile",
             "description": "Conception et création d’une application d’aide à la réalisation de cocktails basée sur la réalité augmentée.",
             "technos": [
@@ -75,7 +75,7 @@
             "intitule": "DUT Informatique",
             "etablissement": "IUT A",
             "ville": "Villeneuve d'Ascq",
-            "année": "2015 - 2017",
+            "annee": "2015 - 2017",
             "autre": ""
         },
         {
@@ -83,7 +83,7 @@
             "intitule": "BAC S",
             "etablissement": "Lycée Paul Hazard",
             "ville": "Villeneuve d'Ascq",
-            "année": "2014",
+            "annee": "2014",
             "autre": "Spécialité Informatique & Sciences du Numérique"
         }
     ],
