@@ -7,6 +7,7 @@
     "telephone": "06.48.70.81.66",
     "experiences": [
         {
+            "id": 3,
             "employeur": "Apside",
             "poste": "Intégrateur",
             "durée": "4 mois",
@@ -22,6 +23,7 @@
             ]
         },
         {
+            "id": 2,
             "employeur": "Apside",
             "poste": "Intégrateur",
             "durée": "1 mois",
@@ -36,6 +38,7 @@
             ]
         },
         {
+            "id": 1,
             "employeur": "Apside",
             "poste": "Développeur",
             "durée": "3 mois",
@@ -51,6 +54,7 @@
             ]
         },
         {
+            "id": 0,
             "employeur": "Apside",
             "poste": "Développeur",
             "durée": "3 mois",
@@ -67,6 +71,7 @@
     ],
     "formation": [
         {
+            "id": 1,
             "intitule": "DUT Informatique",
             "etablissement": "IUT A",
             "ville": "Villeneuve d'Ascq",
@@ -74,6 +79,7 @@
             "autre": ""
         },
         {
+            "id": 0,
             "intitule": "BAC S",
             "etablissement": "Lycée Paul Hazard",
             "ville": "Villeneuve d'Ascq",
@@ -83,52 +89,64 @@
     ],
     "competences": [
         {
+            "id": 0,
             "nom": "ReactJS",
             "niveau": 65
         },
         {
+            "id": 1,
             "nom": "HTML5",
             "niveau": 80
         },
         {
+            "id": 2,
             "nom": "CSS 3",
             "niveau": 80
         },
         {
+            "id": 3,
             "nom": "SASS",
             "niveau": 45
         },
         {
+            "id": 4,
             "nom": "JavaScript",
             "niveau": 65
         },
         {
+            "id": 5,
             "nom": "JQuery",
             "niveau": 55
         },
         {
+            "id": 6,
             "nom": "ElasticSearch",
             "niveau": 40
         },
         {
+            "id": 7,
             "nom": "SQL",
             "niveau": 70
         },
         {
+            "id": 8,
             "nom": "Git",
             "niveau": 70
         },
         {
+            "id": 9,
             "nom": "Java",
             "niveau": 60
         }
     ],
     "langues": [
         {
+            "id": 0,
             "nom": "Anglais",
             "niveau": 55
         },
         {
+            "id": 1,
             "nom": "Néerlandais",
             "niveau": 30
         }
