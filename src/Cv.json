@@ -1,0 +1,140 @@
+{
+    "nom": "Steenkiste",
+    "prenom": "Jérémy",
+    "poste": "Développeur Front-End",
+    "adresse": "11 rue Edmond de Coussemacker, 59270 Bailleul",
+    "mail": "jeremy.steenkiste.pro@gmail.com",
+    "telephone": "06.48.70.81.66",
+    "experiences": [
+        {
+            "employeur": "Apside",
+            "poste": "Intégrateur",
+            "durée": "4 mois",
+            "année": "2018",
+            "typeApp": "Site web",
+            "description": "Intégration du site premium de la Voix Du Nord.",
+            "technos": [
+                "HTML5",
+                "CSS3",
+                "SASS",
+                "JavaScript",
+                "JQuery"
+            ]
+        },
+        {
+            "employeur": "Apside",
+            "poste": "Intégrateur",
+            "durée": "1 mois",
+            "année": "2017",
+            "typeApp": "Site web",
+            "description": "Création d’une plateforme de téléchargement d’une application interne.",
+            "technos": [
+                "ReactJS",
+                "HTML5",
+                "CSS3",
+                "BootStrap"
+            ]
+        },
+        {
+            "employeur": "Apside",
+            "poste": "Développeur",
+            "durée": "3 mois",
+            "année": "2017",
+            "typeApp": "Site web",
+            "description": "Intégration d’une application web à destination des ressources humaines pour la gestion des candidats.",
+            "technos": [
+                "ReactJS",
+                "HTML5",
+                "CSS3",
+                "ElasticSearch",
+                "PostgreSQL"
+            ]
+        },
+        {
+            "employeur": "Apside",
+            "poste": "Développeur",
+            "durée": "3 mois",
+            "année": "2017",
+            "typeApp": "Application mobile",
+            "description": "Conception et création d’une application d’aide à la réalisation de cocktails basée sur la réalité augmentée.",
+            "technos": [
+                "Android",
+                "OpenCV",
+                "SQLite",
+                "JUnit"
+            ]
+        }
+    ],
+    "formation": [
+        {
+            "intitule": "DUT Informatique",
+            "etablissement": "IUT A",
+            "ville": "Villeneuve d'Ascq",
+            "année": "2015 - 2017",
+            "autre": ""
+        },
+        {
+            "intitule": "BAC S",
+            "etablissement": "Lycée Paul Hazard",
+            "ville": "Villeneuve d'Ascq",
+            "année": "2014",
+            "autre": "Spécialité Informatique & Sciences du Numérique"
+        }
+    ],
+    "competences": [
+        {
+            "nom": "ReactJS",
+            "niveau": 6
+        },
+        {
+            "nom": "HTML5",
+            "niveau": 8
+        },
+        {
+            "nom": "CSS 3",
+            "niveau": 8
+        },
+        {
+            "nom": "SASS",
+            "niveau": 5
+        },
+        {
+            "nom": "JavaScript",
+            "niveau": 6
+        },
+        {
+            "nom": "JQuery",
+            "niveau": 5
+        },
+        {
+            "nom": "ElasticSearch",
+            "niveau": 4
+        },
+        {
+            "nom": "SQL",
+            "niveau": 7
+        },
+        {
+            "nom": "Git",
+            "niveau": 7
+        },
+        {
+            "nom": "Java",
+            "niveau": 6
+        }
+    ],
+    "langues": [
+        {
+            "nom": "Anglais",
+            "niveau": 6
+        },
+        {
+            "nom": "Néerlandais",
+            "niveau": 3
+        }
+    ],
+    "hobbies": {
+        "musique": "Membre de 3 associations musicales & Président de l'une d'elles",
+        "sport": "Membre du club de handball de Bailleul"
+    }
+}
