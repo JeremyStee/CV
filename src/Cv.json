@@ -84,53 +84,53 @@
     "competences": [
         {
             "nom": "ReactJS",
-            "niveau": 6
+            "niveau": 65
         },
         {
             "nom": "HTML5",
-            "niveau": 8
+            "niveau": 80
         },
         {
             "nom": "CSS 3",
-            "niveau": 8
+            "niveau": 80
         },
         {
             "nom": "SASS",
-            "niveau": 5
+            "niveau": 45
         },
         {
             "nom": "JavaScript",
-            "niveau": 6
+            "niveau": 65
         },
         {
             "nom": "JQuery",
-            "niveau": 5
+            "niveau": 55
         },
         {
             "nom": "ElasticSearch",
-            "niveau": 4
+            "niveau": 40
         },
         {
             "nom": "SQL",
-            "niveau": 7
+            "niveau": 70
         },
         {
             "nom": "Git",
-            "niveau": 7
+            "niveau": 70
         },
         {
             "nom": "Java",
-            "niveau": 6
+            "niveau": 60
         }
     ],
     "langues": [
         {
             "nom": "Anglais",
-            "niveau": 6
+            "niveau": 55
         },
         {
             "nom": "Néerlandais",
-            "niveau": 3
+            "niveau": 30
         }
     ],
     "hobbies": {
