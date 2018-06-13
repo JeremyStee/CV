@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Headbar extends Component {
     render() {
         return (
-            <div id="headbar">
+            <div className="headbar">
                 <ul>
                     <li>
                         <a href="#civilite">Accueil</a>

@@ -1,0 +1,16 @@
+@import './_Variables.scss';
+#langues {
+    height: 500px;
+    background: $primary-background-color center 0 no-repeat fixed;
+    .languesContenu {
+        width: 50%;
+        margin: auto;
+        background: green;
+        text-align: center;
+    }
+    h1,
+    p,
+    ul {
+        margin: 0;
+    }
+}

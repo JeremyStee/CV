@@ -6,17 +6,19 @@ class Formations extends Component {
     render() {
         return (
             <div id="formations">
-                <h1>Formations</h1>
-                <ul>
-                    {this.props.data.map((formation) => {
-                        return (
-                            <FormationsItem
-                                key={formation.id}
-                                formation={formation}
-                            />
-                        );
-                    })}
-                </ul>
+                <div className="formationsContenu">
+                    <h1>Formations</h1>
+                    <ul>
+                        {this.props.data.map((formation) => {
+                            return (
+                                <FormationsItem
+                                    key={formation.id}
+                                    formation={formation}
+                                />
+                            );
+                        })}
+                    </ul>
+                </div>
             </div>
         );
     }

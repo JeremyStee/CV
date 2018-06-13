@@ -1,0 +1,15 @@
+#competences {
+    height: 500px;
+    background: url(../img/wallpaper.jpg) center 0 no-repeat fixed;
+    .competencesContenu {
+        width: 50%;
+        margin: auto;
+        background: green;
+        text-align: center;
+    }
+    h1,
+    p,
+    ul {
+        margin: 0;
+    }
+}

@@ -1,0 +1,17 @@
+@import './_Variables.scss';
+
+#formations {
+    text-align: center;
+    h1 {
+        margin: 0;
+    }
+    .formationsContenu {
+        height: 500px;
+        width: 50%;
+        margin: auto;
+        background: $grey-dark;
+        padding: 15px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}

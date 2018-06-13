@@ -1,8 +1,141 @@
-h1 {
-  color: red; }
-
 body {
   color: white;
-  background-color: #3c4453; }
-  body h1 {
-    color: red; }
+  background-color: #3c4453;
+  font-family: Karla, sans-serif;
+  font-weight: lighter; }
+
+.headbar {
+  box-shadow: 1px 1px 30px black;
+  background: #3c4453;
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+  top: 0; }
+  .headbar a {
+    text-decoration: none; }
+  .headbar ul {
+    list-style: none;
+    margin: 0;
+    text-align: center;
+    padding: 15px;
+    color: white; }
+    .headbar ul li {
+      display: inline-block;
+      font-size: 1.1em;
+      margin-right: 15px;
+      font-weight: lighter; }
+      .headbar ul li:first-child a {
+        color: #e7a55b; }
+      .headbar ul li a {
+        color: #d4d4d4; }
+        .headbar ul li a:hover {
+          color: white; }
+
+#formations {
+  text-align: center; }
+  #formations h1 {
+    margin: 0; }
+  #formations .formationsContenu {
+    height: 500px;
+    width: 50%;
+    margin: auto;
+    background: #545454;
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px; }
+
+#experiences {
+  text-align: center; }
+
+#competences {
+  height: 500px;
+  background: url(../img/wallpaper.jpg) center 0 no-repeat fixed; }
+  #competences .competencesContenu {
+    width: 50%;
+    margin: auto;
+    background: green;
+    text-align: center; }
+  #competences h1,
+  #competences p,
+  #competences ul {
+    margin: 0; }
+
+#civilite {
+  padding-top: 50px;
+  height: 100vh; }
+  #civilite .civiliteContenu {
+    color: #d4d4d4;
+    width: 50%;
+    height: 90vh;
+    margin: auto;
+    background: rgba(84, 84, 84, 0.8);
+    margin-top: 30px; }
+    #civilite .civiliteContenu .prenom {
+      margin-top: 30%; }
+    #civilite .civiliteContenu h1 {
+      font-size: 4em;
+      margin: auto;
+      display: inline-block;
+      margin-left: 10%; }
+      #civilite .civiliteContenu h1::first-letter {
+        color: #e7a55b; }
+    #civilite .civiliteContenu h2 {
+      font-size: 1.5em;
+      margin: 0;
+      margin-top: 5%;
+      margin-left: 15%;
+      display: inline-block; }
+      #civilite .civiliteContenu h2::first-letter {
+        color: #e7a55b; }
+    #civilite .civiliteContenu .portrait {
+      width: 250px;
+      height: 250px;
+      float: right;
+      vertical-align: top;
+      margin-top: 30%;
+      margin-right: 10%; }
+      #civilite .civiliteContenu .portrait img {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        border: 1px solid white; }
+
+#hobbies {
+  height: 500px;
+  background: url(../img/wallpaper.jpg) center 0 no-repeat fixed; }
+  #hobbies .hobbiesContenu {
+    width: 50%;
+    margin: auto;
+    background: green;
+    text-align: center; }
+  #hobbies h1,
+  #hobbies p,
+  #hobbies ul {
+    margin: 0; }
+
+#langues {
+  height: 500px;
+  background: #3c4453 center 0 no-repeat fixed; }
+  #langues .languesContenu {
+    width: 50%;
+    margin: auto;
+    background: green;
+    text-align: center; }
+  #langues h1,
+  #langues p,
+  #langues ul {
+    margin: 0; }
+
+#contact {
+  height: 500px;
+  background: #3c4453 center 0 no-repeat fixed; }
+  #contact .contactContenu {
+    width: 50%;
+    margin: auto;
+    background: purple;
+    text-align: center; }
+  #contact h1,
+  #contact p,
+  #contact ul {
+    margin: 0; }

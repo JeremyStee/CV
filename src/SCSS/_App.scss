@@ -1,10 +1,7 @@
-h1 {
-    color: red;
-}
+@import './_Variables.scss';
 body {
-    color: white;
-    background-color: rgb(60, 68, 83);
-    h1 {
-        color: red;
-    }
+    color: $text-primary-color;
+    background-color: $primary-background-color;
+    font-family: $text-primary-font;
+    font-weight: lighter;
 }
